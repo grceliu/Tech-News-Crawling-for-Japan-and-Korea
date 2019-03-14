@@ -1,2 +1,2 @@
-# Tech-News-Scrawling-for-Japan-and-Korea
+# Tech-News-Crawling-for-Japan-and-Korea
 Python Crawling Practice
